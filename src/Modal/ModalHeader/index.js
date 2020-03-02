@@ -187,7 +187,7 @@ class ModalHeader extends React.PureComponent<Props> {
         {illustration}
         {hasHeader && (
           <ModalTitle illustration={!!illustration}>
-            {title && <Heading type="title1">{title}</Heading>}
+            {title && <Heading type="title2">{title}</Heading>}
             {description && (
               <ModalDescription>
                 <Text size="large" element="div">
