@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[0],{1321:function(t,i,n){"use strict";n.r(i);var r=n(5);n(1322),n(1350);i.default=Object(r.create)({brandTitle:"Orbit",brandUrl:"https://orbit.kiwi",brandImage:"https://orbit.kiwi/files/2019/08/cropped-OrbitLogo-1.png"})},502:function(t,i,n){n(503),n(677),t.exports=n(1321)},586:function(t,i){}},[[502,1,2]]]);
